@@ -3,6 +3,7 @@
 #include <math.h>
 #include <stdlib.h>
 
+
 int main() {
     int t, n, a;
     scanf("%d", &t);
